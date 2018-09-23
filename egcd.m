@@ -1,5 +1,5 @@
 function [b,x,y] = egcd(a,b)
-%UNTITLED4 Calculates the greatest common divisor with the extended
+%EGCD Calculates the greatest common divisor with the extended
 %euclidian algorithm.
 %   Detailed explanation goes here
     x = 0; y = 1; u = 1; v = 0;
